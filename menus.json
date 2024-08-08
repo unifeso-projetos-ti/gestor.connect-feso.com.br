@@ -1,0 +1,33 @@
+[
+	{
+		"id_menu": "96d4c86e-3ef2-48a6-8f27-e26dc0d3dc46",
+		"title": "Menu Inicial",
+		"initFlow": true,
+		"Option": [
+			{
+				"id_option": "77f95cbb-9260-4d6e-a36d-65439c64d28b",
+				"id_next_menu": null,
+				"id_menu": "96d4c86e-3ef2-48a6-8f27-e26dc0d3dc46",
+				"title": "Opção 1",
+				"number": 1,
+				"message": "Teste",
+				"action": "message"
+			},
+			{
+				"id_option": "ec991a15-bade-40ba-9d04-1a9fd663f469",
+				"id_next_menu": "1ae2d3de-5e64-4c1c-ac8c-6020df63cfcf",
+				"id_menu": "96d4c86e-3ef2-48a6-8f27-e26dc0d3dc46",
+				"title": "Opção 2",
+				"number": 2,
+				"message": "Teste",
+				"action": "navigation"
+			}
+		]
+	},
+	{
+		"id_menu": "1ae2d3de-5e64-4c1c-ac8c-6020df63cfcf",
+		"title": "Menu secundario",
+		"initFlow": false,
+		"Option": []
+	}
+]
