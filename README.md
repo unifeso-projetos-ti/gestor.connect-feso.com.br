@@ -1,17 +1,21 @@
-1.	Plataforma de Onboarding de Funcionários: 
+1.	ChatGPT Educacional
 
-Uma plataforma web projetada para facilitar o processo de integração de novos colaboradores em uma organização, fornecendo recursos e informações essenciais de forma acessível e interativa.
+Um chatbot educacional que utiliza a tecnologia de processamento de linguagem natural para fornecer suporte personalizado, tirar dúvidas e oferecer informações sobre uma variedade de tópicos educacionais.
 
 1.1	Funcionalidades:
 
-•	Portal de Boas-Vindas: Ao ingressar na plataforma, o novo colaborador é recebido por um portal de boas-vindas personalizado, que fornece uma visão geral da empresa, sua cultura, valores e missão.
+•	Assistência Educacional: O chatbot está equipado para responder a uma ampla gama de perguntas educacionais, fornecendo informações sobre disciplinas acadêmicas, conceitos específicos, termos técnicos, dicas de estudo, entre outros.
 
-•	Checklist de Tarefas: A plataforma apresenta um checklist interativo de tarefas e atividades a serem concluídas durante o processo de integração, como preenchimento de formulários, treinamentos obrigatórios e reuniões com membros da equipe.
+•	Tutoria Personalizada: Oferece tutoria personalizada aos alunos, adaptando-se às suas necessidades individuais de aprendizado, fornecendo explicações detalhadas, exemplos práticos e recursos adicionais conforme solicitado.
 
-•	Recursos e Documentação: Os novos colaboradores têm acesso a uma biblioteca online de recursos úteis, como manuais de funcionários, políticas da empresa, guias de procedimentos, vídeos de treinamento e apresentações.
+•	Resolução de Problemas: Auxilia os alunos na resolução de problemas e exercícios de matemática, ciências, linguagens, entre outros, fornecendo orientações passo a passo e esclarecendo conceitos quando necessário.
 
-•	Agendamento de Reuniões e Treinamentos: A plataforma permite agendar reuniões individuais com membros da equipe, sessões de treinamento e apresentações sobre diferentes aspectos da empresa, sua cultura e processos de trabalho.
+•	Revisão de Conteúdo: Ajuda os alunos a revisarem conteúdos acadêmicos, oferecendo resumos, definições, citações, e outros recursos relevantes para estudo e revisão.
 
-•	Fórum de Perguntas e Respostas: Um fórum interativo onde os novos colaboradores podem fazer perguntas, compartilhar experiências e receber orientações de colegas mais experientes e da equipe de recursos humanos.
+•	Preparação para Exames: Fornece suporte na preparação para exames, oferecendo dicas de estudo, sugestões de materiais de revisão, e respondendo a perguntas específicas sobre o conteúdo a ser avaliado.
 
-•	Feedback e Avaliação: Os novos colaboradores têm a oportunidade de fornecer feedback sobre o processo de integração, compartilhando suas impressões, sugestões de melhorias e eventuais preocupações.
+•	Feedback Construtivo: Oferece feedback construtivo sobre o desempenho dos alunos em testes de prática, atividades de revisão e resolução de problemas, ajudando-os a identificar áreas de melhoria e fortalecer suas habilidades.
+
+•	Sugestões de Recursos: Recomenda livros, artigos, vídeos e outros recursos educacionais relevantes para complementar o aprendizado dos alunos e expandir seu conhecimento sobre os temas de interesse.
+
+•	Acesso 24/7: Disponível para uso 24 horas por dia, 7 dias por semana, para que os alunos possam obter suporte e assistência sempre que precisarem, independentemente do horário ou localização.
